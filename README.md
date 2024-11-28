@@ -45,7 +45,7 @@
 
 
 ## Описание данных
-В этом проекте используются данные о резюме соискателей с платформы HeadHunter (файл с данными можно найти [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view)), а также информация о курсах валют с платформы MFD.RU (ссылка для скачивания файла [здесь](https://mfd.ru/export/#Alias=false&Period=1&timeframeValue=1&timeframeDatePart=day&StartDate=04.10.2021&EndDate=04.10.2021&SaveFormat=0&SaveMode=0&FieldSeparator=%253b&DecimalSeparator=.&DateFormat=yyyyMMdd&TimeFormat=HHmmss&AddHeader=true&RecordFormat=0&Fill=false)).
+В этом проекте используются данные о резюме соискателей с платформы HeadHunter (файл с данными можно найти [здесь](https://drive.google.com/uc?export=download&id=1-nvBiEa_FzuLh7CWigcgjEiaBKnHJtZm)), а также информация о курсах валют с платформы MFD.RU (ссылка для скачивания файла [здесь](https://mfd.ru/export/#Alias=false&Period=1&timeframeValue=1&timeframeDatePart=day&StartDate=04.10.2021&EndDate=04.10.2021&SaveFormat=0&SaveMode=0&FieldSeparator=%253b&DecimalSeparator=.&DateFormat=yyyyMMdd&TimeFormat=HHmmss&AddHeader=true&RecordFormat=0&Fill=false)).
 
 ## Используемые зависимости
     * Python (3.11.0):
